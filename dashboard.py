@@ -42,7 +42,7 @@ ctk.set_default_color_theme("blue")
 # =============================================
 #  GLOBALS
 # =============================================
-GEMINI_API_KEY = "AIzaSyBuLfjc5rqS0vzAyaaW5ZVyD3TWMyOIBRs"
+GEMINI_API_KEY = ""
 
 esp32_ip      = ""
 serial_conn   = None
