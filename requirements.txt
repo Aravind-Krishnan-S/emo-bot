@@ -1,0 +1,10 @@
+google-generativeai
+customtkinter
+pyserial
+SpeechRecognition
+PyAudio
+Pillow
+requests
+pyttsx3
+numpy
+python-dotenv
